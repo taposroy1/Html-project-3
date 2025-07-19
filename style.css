@@ -149,38 +149,296 @@ button:hover {
     padding: 10px 0;
 }
 
-.about-text p {
+.about-text p {}
 
-}
-
-.happy-client-section{
+.happy-client-section {
     background-color: #8490ff;
     overflow: hidden;
     padding: 30px 0;
     margin-bottom: 50px;
 }
 
-.happy-client{
+.happy-client {
     float: left;
     width: 25%;
     text-align: center;
     color: #fff;
 }
-.happy-client1{
+
+.happy-client1 {
     float: left;
     width: 25%;
     text-align: center;
     color: #fff;
 }
-.happy-client2{
+
+.happy-client2 {
     float: left;
     width: 25%;
     text-align: center;
     color: #fff;
 }
-.happy-client3{
+
+.happy-client3 {
     float: left;
     width: 25%;
     text-align: center;
     color: #fff;
+}
+
+
+/* servie-apps */
+
+.servie-apps {
+    background-color: #f1f2fc;
+    padding: 50px 0;
+    overflow: hidden;
+}
+
+.servie-apps h2 {
+    text-align: center;
+    font-size: 22px;
+    color: #212529;
+    font-weight: 400;
+}
+
+.servie-apps p {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.economy-service1 {
+    float: left;
+    width: 22%;
+    background-color: #fff;
+    padding: 25px 50px;
+    margin: 20px;
+    border-radius: 8px;
+
+
+}
+
+.economy-service1 h1 {
+    text-align: center;
+    line-height: 35px;
+}
+
+.economy-service1 h3 {
+    text-align: center;
+    padding: 30px 0;
+}
+
+.economy-service1 p {
+    text-align: center;
+    line-height: 35px;
+    padding: 0 50px;
+}
+
+.economy-service1 button {
+	background-color: #ffffff;
+	color:#0D6EFD;
+	border: 1px solid #0D6EFD;
+	text-align: center;
+	position: relative;
+	left: 90px;
+}
+.economy-service1 button:hover {
+	background-color: #0D6EFD;
+	color: #fff;
+	border: 1px solid #0D6EFD;
+	text-align: center;
+	position: relative;
+	left: 90px;
+}
+
+
+.economy-service2 {
+    float: left;
+    width: 22%;
+    background-color: #fff;
+    padding: 25px 50px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.economy-service2 h1 {
+    text-align: center;
+    line-height: 35px;
+}
+
+.economy-service2 h3 {
+    text-align: center;
+    padding: 30px 0;
+}
+
+.economy-service2 p {
+    text-align: center;
+    line-height: 35px;
+    padding: 0 50px;
+}
+.economy-service2 button {
+	background-color: #ffffff;
+	color:#0D6EFD;
+	border: 1px solid #0D6EFD;
+	text-align: center;
+	position: relative;
+	left: 90px;
+}
+.economy-service2 button:hover {
+	background-color: #0D6EFD;
+	color: #fff;
+	border: 1px solid #0D6EFD;
+	text-align: center;
+	position: relative;
+	left: 90px;
+}
+
+
+.economy-service3 {
+    float: left;
+    width: 22%;
+    background-color: #fff;
+    padding: 25px 50px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.economy-service3 h1 {
+    text-align: center;
+    line-height: 35px;
+}
+
+.economy-service3 h3 {
+    text-align: center;
+    padding: 30px 0;
+}
+
+.economy-service3 p {
+    text-align: center;
+    line-height: 35px;
+    padding: 0 50px;
+}
+.economy-service3 button {
+	background-color: #ffffff;
+	color:#0D6EFD;
+	border: 1px solid #0D6EFD;
+	text-align: center;
+	position: relative;
+	left: 90px;
+}
+
+
+.economy-service3 button:hover {
+	background-color: #0D6EFD;
+	color: #fff;
+	border: 1px solid #0D6EFD;
+	text-align: center;
+	position: relative;
+	left: 90px;
+}
+
+
+.team-section{ 
+    padding: 100px 0;
+}
+.team1 {
+	float: left;
+	width: 24%;
+	box-shadow: 0px 0px 16px 5px #dddd;
+
+	margin-left: 11px;
+	border-radius: 5px;
+    padding-bottom: 40px;
+  
+}
+.team1 img {
+	width: 120px;
+	height: auto;
+	margin-top: -50px;
+    border-radius: 10px;
+}
+
+.team1 h2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+   padding-top: 10px;
+}
+.team1 h5{
+    text-align: center;
+    font-size: 16;
+    font-weight: 400;
+}
+.team1 p {
+	text-align: center;
+	padding: 10px 30px;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 31px;
+}
+.team1 a {
+	display: inline;
+	border: 1px solid #ddd;
+	box-shadow: 0px 0px 10px 3px #ddd;
+	padding: 10px 15px;
+	position: relative;
+	left: 100px;
+	top: 4px;
+	text-decoration: none;
+}
+
+
+.footer-section{
+    background-color: #f1f2fc;
+    padding: 50px 0;
+   
+}
+.footer-section h5,h2{
+    text-align: center;
+   
+}
+
+
+/* caontrac section */
+
+.sent-massae{
+    float: left;
+    width: 50%;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.sent-massae input{
+  width: 100%;
+  padding:10px 5px;
+  margin: 5px 0;
+}
+
+.sent-massae textarea{
+    width: 100%;
+    padding: 10px 5px;
+}
+
+.get-touch {
+	float: left;
+	margin-top: 30px;
+	width: 39%;
+	margin-left: 73px;
+    
+}
+
+.get-touch li{
+    list-style: none;
+    line-height: 35px; 
+    font-size: 18px;
+}
+
+.min-footer{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
 }
